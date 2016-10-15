@@ -1,2 +1,2 @@
 # hi-world
-learnmg
+learning tool
